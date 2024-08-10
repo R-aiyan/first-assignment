@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* nav style */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 100px;
+}
+.title{
+    font-size: 28px;
+    font-weight: 800;}
+
+    .btn{
+        text-align: center;
+        font-weight: 600;
+        background-color: white;
+        
+    }
